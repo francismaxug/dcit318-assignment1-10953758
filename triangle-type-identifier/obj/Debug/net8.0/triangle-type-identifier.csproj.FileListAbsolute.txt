@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\318assignment\triangle-type-identifier\triangle-type-identifier\bin\Debug\net8.0\triangle-type-identifier.exe
+C:\Users\Dell\Desktop\318assignment\triangle-type-identifier\triangle-type-identifier\bin\Debug\net8.0\triangle-type-identifier.deps.json
+C:\Users\Dell\Desktop\318assignment\triangle-type-identifier\triangle-type-identifier\bin\Debug\net8.0\triangle-type-identifier.runtimeconfig.json
+C:\Users\Dell\Desktop\318assignment\triangle-type-identifier\triangle-type-identifier\bin\Debug\net8.0\triangle-type-identifier.dll
+C:\Users\Dell\Desktop\318assignment\triangle-type-identifier\triangle-type-identifier\bin\Debug\net8.0\triangle-type-identifier.pdb
+C:\Users\Dell\Desktop\318assignment\triangle-type-identifier\triangle-type-identifier\obj\Debug\net8.0\triangle-type-identifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\318assignment\triangle-type-identifier\triangle-type-identifier\obj\Debug\net8.0\triangle-type-identifier.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\318assignment\triangle-type-identifier\triangle-type-identifier\obj\Debug\net8.0\triangle-type-identifier.AssemblyInfo.cs
+C:\Users\Dell\Desktop\318assignment\triangle-type-identifier\triangle-type-identifier\obj\Debug\net8.0\triangle-type-identifier.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\318assignment\triangle-type-identifier\triangle-type-identifier\obj\Debug\net8.0\triangle-type-identifier.dll
+C:\Users\Dell\Desktop\318assignment\triangle-type-identifier\triangle-type-identifier\obj\Debug\net8.0\refint\triangle-type-identifier.dll
+C:\Users\Dell\Desktop\318assignment\triangle-type-identifier\triangle-type-identifier\obj\Debug\net8.0\triangle-type-identifier.pdb
+C:\Users\Dell\Desktop\318assignment\triangle-type-identifier\triangle-type-identifier\obj\Debug\net8.0\triangle-type-identifier.genruntimeconfig.cache
+C:\Users\Dell\Desktop\318assignment\triangle-type-identifier\triangle-type-identifier\obj\Debug\net8.0\ref\triangle-type-identifier.dll
