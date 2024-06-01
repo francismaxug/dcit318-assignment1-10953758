@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\318assignment\grade-calculator\grade-calculator\bin\Debug\net8.0\grade-calculator.exe
+C:\Users\Dell\Desktop\318assignment\grade-calculator\grade-calculator\bin\Debug\net8.0\grade-calculator.deps.json
+C:\Users\Dell\Desktop\318assignment\grade-calculator\grade-calculator\bin\Debug\net8.0\grade-calculator.runtimeconfig.json
+C:\Users\Dell\Desktop\318assignment\grade-calculator\grade-calculator\bin\Debug\net8.0\grade-calculator.dll
+C:\Users\Dell\Desktop\318assignment\grade-calculator\grade-calculator\bin\Debug\net8.0\grade-calculator.pdb
+C:\Users\Dell\Desktop\318assignment\grade-calculator\grade-calculator\obj\Debug\net8.0\grade-calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\318assignment\grade-calculator\grade-calculator\obj\Debug\net8.0\grade-calculator.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\318assignment\grade-calculator\grade-calculator\obj\Debug\net8.0\grade-calculator.AssemblyInfo.cs
+C:\Users\Dell\Desktop\318assignment\grade-calculator\grade-calculator\obj\Debug\net8.0\grade-calculator.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\318assignment\grade-calculator\grade-calculator\obj\Debug\net8.0\grade-calculator.dll
+C:\Users\Dell\Desktop\318assignment\grade-calculator\grade-calculator\obj\Debug\net8.0\refint\grade-calculator.dll
+C:\Users\Dell\Desktop\318assignment\grade-calculator\grade-calculator\obj\Debug\net8.0\grade-calculator.pdb
+C:\Users\Dell\Desktop\318assignment\grade-calculator\grade-calculator\obj\Debug\net8.0\grade-calculator.genruntimeconfig.cache
+C:\Users\Dell\Desktop\318assignment\grade-calculator\grade-calculator\obj\Debug\net8.0\ref\grade-calculator.dll
